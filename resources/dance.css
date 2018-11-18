@@ -69,11 +69,11 @@ a:hover {
     margin-top: 195px;
     position: absolute;
     left: -108px;
-    -webkit-animation: arrow 35s 1;
-    -moz-animation: arrow 35s 1;
-    -ms-animation: arrow 35s 1;
-    -o-animation: arrow 35s 1;
-    animation: arrow 35s 1;
+    -webkit-animation: arrow 21s 1;
+    -moz-animation: arrow 21s 1;
+    -ms-animation: arrow 21s 1;
+    -o-animation: arrow 21s 1;
+    animation: arrow 21s 1;
 }
 
 .social-links {
@@ -81,11 +81,11 @@ a:hover {
     left: 130px;
     top: 40%;
     margin-top: 218px;
-    -webkit-animation: logo 34s 1;
-    -moz-animation: logo 34s 1;
-    -ms-animation: logo 34s 1;
-    -o-animation: logo 34s 1;
-    animation: logo 34s 1;
+    -webkit-animation: logo 23s 1;
+    -moz-animation: logo 23s 1;
+    -ms-animation: logo 23s 1;
+    -o-animation: logo 23s 1;
+    animation: logo 23s 1;
 }
 
 .social-links li {
@@ -104,14 +104,6 @@ a:hover {
     border: 0;
 }
 
-.social-links li a.thejibe {
-    width: 22px;
-}
-
-.social-links li a.thejibe:hover {
-    background-position: 0 -30px;
-}
-
 .social-links li a.twitter {
     background-position: -55px 0;
     width: 20px;
@@ -119,15 +111,6 @@ a:hover {
 
 .social-links li a.twitter:hover {
     background-position: -55px -30px;
-}
-
-.social-links li a.facebook {
-    background-position: -79px 0;
-    width: 14px;
-}
-
-.social-links li a.facebook:hover {
-    background-position: -79px -30px;
 }
 
 .social-links li a.linkedin {
@@ -138,26 +121,6 @@ a:hover {
 .social-links li a.linkedin:hover {
     background-position: -28px -30px;
 }
-
-.social-links li a.soundcloud {
-    background-position: -98px 0;
-    width: 21px;
-}
-
-.social-links li a.soundcloud:hover {
-    background-position: -98px -30px;
-}
-
-.social-links li a.mixcloud {
-    background-position: -120px 0;
-    width: 31px;
-}
-
-.social-links li a.mixcloud:hover {
-    background-position: -120px -30px;
-}
-
-
 
 /*.dollar:before {
     content: '$';
@@ -186,9 +149,6 @@ a:hover {
     div.social-links ul {
         width: 235px;
         left: 10%;
-    }
-    li.facebook-like {
-        display: none;
     }
     .arrow {
         display: none !important;
