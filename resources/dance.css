@@ -9,7 +9,7 @@
 }
 
 body {
-    background: #f9f9f9 url('resources/subtle_dots.png') repeat;
+    background: #f9f9f9 url('subtle_dots.png') repeat;
     color: #222;
     
     font: 15px/24px "Bitstream Vera Sans Mono", "Anonymous Pro", "Consolas", monospace;
